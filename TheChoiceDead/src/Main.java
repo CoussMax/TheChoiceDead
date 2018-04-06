@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  * <b>Lanceur de l'application</b>.
- *
+ * Ceci est un test.
  */
 public class Main {
 
